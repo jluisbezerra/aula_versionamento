@@ -1,3 +1,5 @@
 <?php
-	echo "Arquivo teste";
+	if ($test=1) {
+		echo "teste funciona";
+	}
 ?>
